@@ -20,7 +20,8 @@ public class While01 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //counter++;
+        //counter++
+        //
         //Debug.Log("Pasó el frame número"+ counter);
 
     }
